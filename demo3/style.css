@@ -34,7 +34,7 @@ a:hover {
 	clear: both;
 }
 body {
-	background: #bc7b03;
+	background: blue;
 	font: 11px arial, sans-serif;
 }
 
@@ -43,11 +43,11 @@ body {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: -8px 0px url(images/header_bg.jpg) repeat-x;
+	background: -8px 0px url(images/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEUAAP+KeNJXAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC.jpg) repeat-x;
 	height: 284px;
 }
 #header h1 {
-	background: 0px 0px url(images/header_left.jpg) no-repeat;
+	background: 0px 0px url(images/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEUAAP+KeNJXAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC.jpg) no-repeat;
 	height: 184px;
 	width: 282px;
 	margin: 0;
@@ -140,7 +140,7 @@ body {
 	font-family: serif;
 }
 
-#black-tl { width: 100%; background: rgb(214, 180, 12) top left url(images/black_tl.gif) no-repeat; }
+#black-tl { width: 100%; background:blue left url(images/black_tl.gif) no-repeat; }
 #black-tr { width: 100%; background: top right url(images/black_tr.gif) no-repeat; }
 #black-bl { width: 100%; background: bottom left url(images/black_bl.gif) no-repeat; }
 #black-br { width: 100%; background: bottom right url(images/black_br.gif) no-repeat; }
