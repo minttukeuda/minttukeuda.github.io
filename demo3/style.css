@@ -34,7 +34,7 @@ a:hover {
 	clear: both;
 }
 body {
-	background: #580000;
+	background: #bc7b03;
 	font: 11px arial, sans-serif;
 }
 
@@ -171,7 +171,7 @@ body {
 	font-family: serif;
 }
 .black-box .more {
-	color: red;
+	color: rgb(85, 0, 255);
 }
 
 #footer {
