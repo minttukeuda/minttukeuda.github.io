@@ -356,7 +356,7 @@ button {
 }
 
 .site-navbar ul li a {
-    color: #fef6fc;
+    color: #d202c4e1;
     font-size: 17px;
     display: block;
     text-decoration: none;
@@ -372,10 +372,10 @@ button {
 }
 
 .site-navbar ul li a:hover {
-    color: #00132b;
+    color: #d202c4e1;
 }
 .site-navbar ul li a.active {
-    color: #00132b;
+    color: #d202c4e1;
 }
 
 /* navbar regular css end */
@@ -488,7 +488,7 @@ button {
 /** banner section **/
 
 .full_bg {
-     background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stockvault.net%2Fphoto%2F292402%2Fabstract-colored-background&psig=AOvVaw1Kgx9Pdu09ZqOWRm97-C9l&ust=1676449984143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj7ooDNlP0CFQAAAAAdAAAAABAQ);
+     background: url(images/kuu.jpg);
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
