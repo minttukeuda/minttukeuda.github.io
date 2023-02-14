@@ -296,7 +296,7 @@ button {
 
 .read_more:hover {
      background: #d202c4e1;
-     color: #fff;
+     color: #d202c4e1;
      transition: ease-in all 0.5s;
 }
 
@@ -336,7 +336,7 @@ button {
     bottom: -93px;
     width: 158px;
     height: 96px;
-    background: url(../images/logo.png);
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zrkbf&psig=AOvVaw1DRJxdYoLuIqsiFhgUXQn5&ust=1676449835211000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDvibnMlP0CFQAAAAAdAAAAABAK);
     z-index: 999;
     margin: 0 auto;
     left: 0;
@@ -488,7 +488,7 @@ button {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/banner.png);
+     background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stockvault.net%2Fphoto%2F292402%2Fabstract-colored-background&psig=AOvVaw1Kgx9Pdu09ZqOWRm97-C9l&ust=1676449984143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj7ooDNlP0CFQAAAAAdAAAAABAQ);
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
@@ -705,7 +705,7 @@ button {
 
 
 .protect_bg  {
-       background:url(../images/project.png);
+       background:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F120000%2Fnahled%2Frainbow-colors-background.jpg&imgrefurl=https%3A%2F%2Fwww.publicdomainpictures.net%2Fen%2Fview-image.php%3Fimage%3D112751%26picture%3Drainbow-colors-background&tbnid=9EmjvABqIwB1nM&vet=12ahUKEwjV_p3RzZT9AhWNAXcKHca7A6gQMygAegUIARDqAQ..i&docid=pZlsKZ2Xqnn_XM&w=614&h=409&q=background%20rainbow&hl=fi&ved=2ahUKEwjV_p3RzZT9AhWNAXcKHca7A6gQMygAegUIARDqAQ);
      background-repeat: no-repeat;
      background-position: center;
      background-size: 100% 100%;
@@ -1017,7 +1017,7 @@ button {
     background-repeat: no-repeat;
 }
 .cevery_white {background: #fff;}
-.cevery_bg {background: url(../images/ever_bg.jpg);
+.cevery_bg {background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Frainbow%2520background&psig=AOvVaw3C6v6zlPNs4U40EiAKIsnU&ust=1676450155389000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjN_NHNlP0CFQAAAAAdAAAAABAE);
 background-size: cover;
 background-repeat: no-repeat; background-position: center;
 padding: 80px 0;
