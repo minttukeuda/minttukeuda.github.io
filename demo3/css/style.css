@@ -296,7 +296,7 @@ button {
 
 .read_more:hover {
      background: #d202c4e1;
-     color: #df6fd8e1;
+     color: #ffa8f9e1;
      transition: ease-in all 0.5s;
 }
 
@@ -372,7 +372,7 @@ button {
 }
 
 .site-navbar ul li a:hover {
-    color: #d202c4e1;
+    color: #ff25f0e1;
 }
 .site-navbar ul li a.active {
     color: #f5f4f4e1;
@@ -1052,7 +1052,7 @@ padding: 80px 0;
     width: 100%;
     display: block;
     border: inherit;
-    background: #0a264a;
+    background: #000000;
     border-radius: 50px;
     margin: 0 auto;
     margin-top: 30px;
