@@ -295,7 +295,7 @@ button {
 }
 
 .read_more:hover {
-     background: #00ffd5;
+     background: #d202c4e1;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -580,7 +580,7 @@ button {
 #banner1 .carousel-control-next {
      width:80px;
      height: 80px;
-     background-color: #ed1c24;
+     background-color: #d202c4e1;
      color: #fff;
      font-size: 35px;
      opacity: 1;
@@ -604,7 +604,7 @@ button {
 #banner1 .carousel-control-prev:focus,
 #banner1 .carousel-control-prev:hover {
      background-color: #fff;
-     color: #ed1c24;
+     color: #d202c4e1;
 }
 
 
