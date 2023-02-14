@@ -34,7 +34,7 @@ a:hover {
 	clear: both;
 }
 body {
-	background: blue;
+	background: rgb(0, 0, 0);
 	font: 11px arial, sans-serif;
 }
 
@@ -140,7 +140,7 @@ body {
 	font-family: serif;
 }
 
-#black-tl { width: 100%; background:rgba(0, 140, 255, 0.721) left url(images/black_tl.gif) no-repeat; }
+#black-tl { width: 100%; background:rgba(0, 0, 0, 0.721) left url(images/black_tl.gif) no-repeat; }
 
 
 #black-tl {
@@ -169,7 +169,7 @@ body {
 	font-family: serif;
 }
 .black-box .more {
-	color: rgb(85, 0, 255);
+	color: rgb(0, 0, 0);
 }
 
 #footer {
