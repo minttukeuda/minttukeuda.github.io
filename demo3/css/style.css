@@ -61,7 +61,7 @@ body {
 /*font-family: 'Roboto', sans-serif;*/
 
 a {
-     color: #1f1f1f;
+     color: #000000;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -280,7 +280,7 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #05254d;
+     background-color: #070d15;
      color: #fff;
     
      width: 100%;
@@ -321,7 +321,7 @@ button {
      width: 100%;
      z-index: 9999999;
      height: 87px;
-     background:#00ffd5;
+     background:#920288e1;
 }
 
 
@@ -1017,7 +1017,7 @@ button {
     background-repeat: no-repeat;
 }
 .cevery_white {background: #fff;}
-.cevery_bg {background: url(https://edukeuda-my.sharepoint.com/:f:/g/personal/minttu_hillebrandt_edu_keuda_fi/EohccKR0ZwpFhkxOX6E40NABzAOVT54p0PvQLWYc6bLrwQ?e=7mrRXL);
+.cevery_bg {background: url(tausta2.jfif);
 background-size: cover;
 background-repeat: no-repeat; background-position: center;
 padding: 80px 0;
