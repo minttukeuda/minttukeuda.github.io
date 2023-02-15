@@ -164,7 +164,7 @@
 
 .nice-select .option.disabled {
   background-color: transparent;
-  color: #999;
+  color: #7e7e7e;
   cursor: default;
 }
 
