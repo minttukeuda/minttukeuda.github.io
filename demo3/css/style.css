@@ -296,7 +296,7 @@ button {
 
 .read_more:hover {
      background: #d202c4e1;
-     color: #ffa8f9e1;
+     color: #fdf8fde1;
      transition: ease-in all 0.5s;
 }
 
@@ -488,7 +488,7 @@ button {
 /** banner section **/
 
 .full_bg {
-     background: url(images/kuu.jpg);
+     background: url(../images/kuu.jpg);
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
@@ -570,7 +570,7 @@ button {
 }
 
 
-.photog .read_more:hover {background: #ed1c24; color: #fff;}
+.photog .read_more:hover {background: #d202c4e1; color: #fff;}
 .slider_main .carousel-item {
      height: 100%;
      width: 100%;
@@ -644,7 +644,7 @@ button {
     position: absolute;
     content: "";
     bottom: 0px;
-    background: #ed1c24;
+    background: #d202c4e1;
     width: 93px;
     height: 11px;
     left: 0;
@@ -765,7 +765,7 @@ button {
 .owl-carousel .owl-nav button.owl-prev {
      width: 90px;
      height: 90px;
-     background-color: #ed1c24 !important;
+     background-color: #d202c4e1 !important;
      color: #fff !important;
      font-size: 55px !important;
      line-height: 30px !important;
@@ -985,7 +985,7 @@ button {
 }
 
 .main_form .send_btn:hover {
-     background-color: #e92f0b;
+     background-color: #d202c4e1;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -1017,7 +1017,7 @@ button {
     background-repeat: no-repeat;
 }
 .cevery_white {background: #fff;}
-.cevery_bg {background: url(tausta2.jfif);
+.cevery_bg {background: url(../images/tausta2.jpg);
 background-size: cover;
 background-repeat: no-repeat; background-position: center;
 padding: 80px 0;
