@@ -1,5 +1,5 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", Georgia, 'Times New Roman', Times, serif;
   color: #a30000;
   background-color: #000000;
 }
@@ -32,7 +32,7 @@ body {
 .sub_page .brand_box {
   position: relative;
   background-image: url(../images/slider-img.jpg);
-  padding: 45px 4;
+  padding: 60px 7;
 }
 
 .sub_page .nav_section {
