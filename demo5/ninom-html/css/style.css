@@ -37,7 +37,7 @@ body {
 
 .sub_page .nav_section {
   margin-top: 0;
-  background-color: #252525;
+  background-color: #616161;
 }
 
 .brand_box {
@@ -531,19 +531,19 @@ a:focus {
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #ac9784;
+  color: #07909a;
   text-transform: uppercase;
   font-size: 15px;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #ac9784;
+  color: #07909a;
   text-transform: uppercase;
   font-size: 15px;
 }
 
 .contact_section input::placeholder {
-  color: #ac9784;
+  color: #07909a;
   text-transform: uppercase;
   font-size: 15px;
 }
@@ -682,7 +682,7 @@ a:focus {
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #f89e12;
+  color: #07909a;
 }
 
 .info_section .box {
