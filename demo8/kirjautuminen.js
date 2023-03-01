@@ -11,5 +11,3 @@ function kirjaudu(){
     localStorage.setItem("nimi", document.getElementById("nimi").value)
     localStorage.setItem("kirjautunut","kylla")
 }
-
-<input id="kirjaudu_nappi" type="submit" value="Kirjaudu ulos" onClick="kirjaudu()" />
